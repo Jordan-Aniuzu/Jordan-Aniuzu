@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-➢ I'm Jordan Aniuzu, a student with a passion for software engineering 💻
-➢ My specialty revolves in Full-stack Engineering projects and Product Management ⚙️
-➢ Im currently in my second year of Univeristy studying Computer Science🎯
+➢ I'm Jordan Aniuzu, a student with a passion for software engineering 💻 <br>
+➢ My specialty revolves in Full-stack Engineering projects and Product Management ⚙️ <br>
+➢ Im currently in my second year of Univeristy studying Computer Science🎯 <br>
 
 ## Reach me here; 📧
 
-Phone number: 089 954 0453
+Phone number: 089 954 0453 <br>
 E-mail: jordananiuzu@gmail.com
 
 
