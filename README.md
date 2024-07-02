@@ -1,6 +1,18 @@
 ## Hi there 👋
 
-Welcome!
+➢ I'm Jordan Aniuzu, a student with a passion for software engineering 💻
+➢ My specialty revolves in Full-stack Engineering projects and Product Management ⚙️
+➢ Im currently in my second year of Univeristy studying Computer Science🎯
+
+## Reach me here; 📧
+
+Phone number: 089 954 0453
+E-mail: jordananiuzu@gmail.com
+
+
+## Technical Skills; 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **Jordan-Aniuzu/Jordan-Aniuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
