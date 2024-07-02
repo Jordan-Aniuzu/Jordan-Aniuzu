@@ -12,7 +12,7 @@ E-mail: jordananiuzu@gmail.com
 
 ## Technical Skills; 
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,java,js,python,sql,git,java,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,java,js,python,mysql,git,java,php)](https://skillicons.dev)
 
 <!--
 **Jordan-Aniuzu/Jordan-Aniuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
