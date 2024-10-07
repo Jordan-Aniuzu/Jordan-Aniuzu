@@ -3,8 +3,8 @@
 ![signature](https://github.com/Jordan-Aniuzu/Jordan-Aniuzu/assets/146434516/2f504923-c104-45de-a548-45c1436b1266)
 
 ➢ I'm Jordan Aniuzu, a student with a passion for software engineering 💻 <br>
-➢ My specialty revolves in Full-stack Engineering projects and Product Management ⚙️ <br>
-➢ Im currently in my second year of Univeristy studying Computer Science🎯 <br>
+➢ My specialty revolves in Full-stack Engineering projects and Project Management ⚙️ <br>
+➢ Im currently in my third year of Univeristy studying Computer Science🎯 <br>
 
 ## Reach me here: 📧
 
