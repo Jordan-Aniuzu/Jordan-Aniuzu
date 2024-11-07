@@ -14,7 +14,7 @@ E-mail: jordananiuzu@gmail.com
 
 ## Technical Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,java,js,python,mysql,git,java,php,mongodb,docker,react,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,java,js,python,mysql,git,java,php,mongodb)](https://skillicons.dev)
 
 
 
