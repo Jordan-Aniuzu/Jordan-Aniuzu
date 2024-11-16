@@ -8,7 +8,6 @@
 
 ## Reach me here: 📧
 
-Phone number: +353 89 954 0453 <br>
 E-mail: jordananiuzu@gmail.com
 
 
