@@ -4,7 +4,7 @@
 
 ➢ I'm Jordan Aniuzu, a student with a passion for technology and software engineering 💻 <br>
 ➢ My specialty revolves in Full-stack Engineering projects and Project Management ⚙️ <br>
-➢ Im currently in my Third year of Univeristy studying Computer Science🎯 <br>
+➢ Im currently in my Fourth year of Univeristy studying Computer Science🎯 <br>
 
 ## Reach me here: 📧
 
@@ -13,8 +13,7 @@ E-mail: jordananiuzu@gmail.com
 
 ## Technical Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,java,js,python,mysql,git,java,php,mongodb)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,python,mysql,git,php,react,nodejs,linux)](https://skillicons.dev)
 
 
 <!--
